@@ -3,6 +3,8 @@ Plant-herbivore database used in Felix et. al. 2022 (10.1111/1365-2656.13806)
 
 This dataset comprises the regional subset of the data analysed in Jorge et al. (2014), which includes 1131 interactions recorded in five localities of rocky outcrop grasslands in the Espinhaço mountain range in the state of Minas Gerais. These interactions form a network with 198 plant species in 15 tribes of the Asteraceae, and 99 herbivore species belonging to four families of Diptera and Lepidoptera, all of which have flowerhead-feeding larvae that were reared from samples of their host plants. For details on field sampling and rearing procedures and on insect and plant sorting and identification see Prado et al. (2002), Almeida et al. (2006) and Jorge et al. (2014).
 
+Code to perform the restricted null model (https://doi.org/10.5281/zenodo.4616748)
+
 References
 
 Almeida, A.M., Fonseca, C.R., Prado, P.I., Almeida-Neto, M., Diniz, S., Kubota, U., et al. (2006). Assemblages of endophagous insects on Asteraceae in São Paulo cerrados. Neotrop. Entomol., 35, 458–68.
